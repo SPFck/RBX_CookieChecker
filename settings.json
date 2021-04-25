@@ -1,5 +1,5 @@
 {
-	"irt_chk": false,
+	"irt_chk": true,
 	"list": "cookies_list.txt",
 	"clear_cmd": "cls",
 	"delay": 0
